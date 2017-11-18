@@ -1,0 +1,19 @@
+{
+  "scripts": {
+    "start": "micro"
+  },
+  "dependencies": {
+    "express": "^4.15.3",
+    "phantom": "^4.0.3",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4"
+  },
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "babel-cli": "^6.24.1",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-es2016": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-1": "^6.24.1"
+  }
+}
